@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    models:
+      book: 本  #g
+      report: 報告  #g
+
+    attributes:
+      book:
+        memo: メモ  #g
+        title: タイトル  #g
+
+      report:
+        content: コンテンツ  #g
+        title: タイトル  #g
